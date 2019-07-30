@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="aboutmestyles.css">
+    <script src="aboutme.js"></script>
+</head>
+<body>
+
+<!--First website for Girls Who Code. One of many-->
+<div>
+
+<h1>All About Me</h1>
+
+<div>
+<h2>A Brief Intro</h2>
+ 
+
+Hello and welcome to my page! My name is Andrea Tapia, and I'm a sixteen year old living her best life in NYC.
+I reside in Jackson Heights, Queens and go to The Young Women's Leadership School of Astoria.
+<div>
+
+
+<h2>Fun Facts:</h2>
+
+<div>
+    <button id= "CLICK HERE :O" onclick="showHideSection('showHideSelection')">CLICK HERE :o</button>
+<br><br>
+<div id= "showHideSelection">
+<ul>
+<li>I'm obsessed with memes </li>
+<li> I was obsessed with Vine (RIP) for a while</li>
+<li>My favorite color was blue, but now it's all primary colors</li>
+<li>I hate celery </li>
+<li>I'm learning French, German, and recently Italian (I want to be a polyglot wish me luck :')</li>
+</ul>
+</div>
+
+
+<div>
+<h2>Stuff I like to do:</h2>
+<ul>
+<li>I LOVE listening to music as well as playing music on my guitar and occasionally my ukelele. </li>
+<li>Reading books </li> 
+<li>Playing sports ( I play on the soccer and track team at school)</li>
+<li>Hanging out with friends</li> 
+<li>SiNgInG</li>
+<li>Going out to walk in nature </li>
+<li>Watch Netflix and Youtube while snacking and doing nothing  :) </li>
+<div>
+
+<div>
+<h2>Things I watch(ed) and LOVE:</h2>
+
+<img src="https://i.imgflip.com/2021xc.jpg" width="200" onmouseover="makeImageBig(this)" onmouseout= "makeImageOriginalSize(this)"> 
+
+<ul>
+<li>MARVEL MOVIES</li>
+<li>Grey's Anatomy</li>
+<li>The Office</li>
+<li>Friends</li>
+<li>The Flash </li>
+<li>Our Planet (Netflix documentary) </li>
+<li>Gossip Girl </li>
+<li>Jane the Virgin </li>
+<li>Cable Girls (Spanish Origin Netflix show) </li>
+<li>La Casa De Las Flores ( Spanish netflix original) </li>
+</body>
+</html>
